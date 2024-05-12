@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **lucasvinhtran/lucasvinhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+"A child raised in shelter opportunity \
+Wishing to rise and begin his own life journey \
+A student version language and ideology \
+Willing to expand his mental boundary \
+An artist inspired by modern and antiquity \
+Creating, innovating in expressing his mentality \
+An individual searching for cultural diversity \
+Begin his search under the lights of New York city..."
